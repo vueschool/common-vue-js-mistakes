@@ -1,6 +1,9 @@
 <script setup lang="ts">
-import KeyExample from '@/components/KeyExample.vue'
+import { useCounter } from './composables/useCounter'
+import MyComponent from '@/components/MyComponent.vue'
+const { count } = useCounter()
 </script>
 <template>
-  <KeyExample />
+  <button @click="count++">count</button>
+  <MyComponent />
 </template>
