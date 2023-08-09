@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import ReactiveStateReplaceExample from '@/components/ReactiveStateReplaceExample.vue'
+import MutatingPropsExample from '@/components/MutatingPropsExample.vue'
 </script>
 <template>
-  <ReactiveStateReplaceExample />
+  <MutatingPropsExample />
 </template>
