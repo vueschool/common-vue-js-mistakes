@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import WatchArrayExample from '@/components/WatchArrayExample.vue'
+import ReactiveStateReplaceExample from '@/components/ReactiveStateReplaceExample.vue'
 </script>
 <template>
-  <WatchArrayExample />
+  <ReactiveStateReplaceExample />
 </template>
