@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import EventListenerExample from '@/components/EventListenerExample.vue'
+import NonReactiveExample from '@/components/NonReactiveExample.vue'
 </script>
 <template>
-  <EventListenerExample />
+  <NonReactiveExample />
 </template>
