@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import MutatingPropsExample from '@/components/MutatingPropsExample.vue'
+import EventListenerExample from '@/components/EventListenerExample.vue'
 </script>
 <template>
-  <MutatingPropsExample />
+  <EventListenerExample />
 </template>
