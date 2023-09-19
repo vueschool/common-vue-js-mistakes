@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import WrongLevelComposables from '@/components/WrongLevelComposables.vue'
+import ScriptInjection from '@/components/ScriptInjection.vue'
 </script>
 <template>
-  <WrongLevelComposables />
+  <ScriptInjection />
 </template>
