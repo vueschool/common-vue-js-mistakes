@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import NonReactiveExample from '@/components/NonReactiveExample.vue'
+import DeconstructingReactive from '@/components/DeconstructingReactive.vue'
 </script>
 <template>
-  <NonReactiveExample />
+  <DeconstructingReactive />
 </template>
