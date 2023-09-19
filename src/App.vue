@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import DeconstructingReactive from '@/components/DeconstructingReactive.vue'
+import WrongLevelComposables from '@/components/WrongLevelComposables.vue'
 </script>
 <template>
-  <DeconstructingReactive />
+  <WrongLevelComposables />
 </template>
