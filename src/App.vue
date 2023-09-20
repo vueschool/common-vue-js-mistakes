@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import ScriptInjection from '@/components/ScriptInjection.vue'
+import UnnecessaryDomManipulation from '@/components/UnnecessaryDomManipulation.vue'
 </script>
 <template>
-  <ScriptInjection />
+  <UnnecessaryDomManipulation />
 </template>
